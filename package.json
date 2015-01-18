@@ -1,0 +1,9 @@
+{
+  "name": "osdusshor",
+  "devDependencies": {
+    "compression": "latest",
+    "express": "latest",
+    "less": "latest"
+  },
+  "engine": "node >= 0.10.17"
+}
